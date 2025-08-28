@@ -1,1 +1,2 @@
 Another file
+added a new feature
