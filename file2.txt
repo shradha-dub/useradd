@@ -1,2 +1,3 @@
 Another file
 added a new feature
+2nd feature
